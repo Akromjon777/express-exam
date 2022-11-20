@@ -1,0 +1,34 @@
+[
+    {
+        "product_id": 1,
+        "sub_category_id": 1,
+        "model": "Iphone",
+        "product_name": "Iphone 8+",
+        "color": "black",
+        "price": "1401"
+    },
+    {
+        "product_id": 2,
+        "sub_category_id": 1,
+        "model": "Vivo",
+        "product_name": "Vivo y33",
+        "color": "blue",
+        "price": "212"
+    },
+    {
+        "product_id": 3,
+        "sub_category_id": 2,
+        "model": "Argos",
+        "product_name": "Hitachi hor 12",
+        "color": "black",
+        "price": "298"
+    },
+    {
+        "product_id": 4,
+        "sub_category_id": 4,
+        "model": "Jordan",
+        "product_name": "Jordan 2x2",
+        "color": "grey hand",
+        "price": "99"
+    }
+]
